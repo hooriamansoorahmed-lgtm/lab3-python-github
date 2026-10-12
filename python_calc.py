@@ -57,7 +57,7 @@ def main():
         choice = input("Enter your choice (1-7): ").strip()
 
         if choice == "7":
-            print("Goodbye!")
+            print("Thank you for using the calculator. Goodbye!")
             break
 
         if choice in ("1", "2", "3", "4"):
